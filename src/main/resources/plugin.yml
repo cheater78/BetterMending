@@ -1,0 +1,4 @@
+name: BetterMending
+version: '${project.version}'
+main: com.c78.bettermending.BetterMending
+api-version: '1.20'
